@@ -1,4 +1,4 @@
 # amazon-review-scraper
 scrapes reviews from amazon's product and finds the most common defects in the product
 
-insert your product url to url variable and run code
+insert your product url to url variable and run code, the result will be downloded as csv file.
